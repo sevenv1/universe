@@ -1,1 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
 
+h1 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label, select, button {
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+#response-output {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
